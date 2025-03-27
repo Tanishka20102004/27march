@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main() {
+  // Write code here
+  std::string username;
+  std::cout<<"Enter Your Beautiful Name:\n";
+  std::cin>>username;
+  std::cout<<username;
+}
