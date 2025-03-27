@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main() {
+  // Write code here
+  double Fahrenheit=82;
+  double celsius=(Fahrenheit-31)/1.8;
+   std::cout << "Temperature in Brooklyn, NY is " << celsius << " °C.\n";
+}
